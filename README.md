@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Shahd Osama
+## 👋 Hey, I'm Shahd usama
 
 🎓 *Computer and Communications Engineering Student* at Alexandria National University  
 📍 Based in Egypt | 💡 Passionate about Technology, Programming, and Innovation
@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400px" alt="Coding GIF">
+  <img alt="Cartoon coder girl" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400px">
 </div>
 
 ---
@@ -52,4 +52,31 @@ I’m an engineering student with a GPA of **3.96**, passionate about:
 - 🎓 *Ashbal Masr Digital Scholarship* (2023)  
 - 👩‍💻 *Java & Android Development* — AASTMT  
 - 🌐 *HTML & CSS* — CodeLane  
-- 📊 *Data Analysis & Leadersh*
+- 📊 *Data Analysis & Leadership* — HP LIFE  
+- 🧠 *Soft Skills* — Almentor (Time Management, Leadership, Presentation…)
+
+---
+
+### 🔧 Projects
+- **Hotel Management System** (Java — AASTMT)  
+- **Arduino IR Remote System**  
+- **Motor Control with L298N**  
+- **Ultrasonic Distance Sensor**  
+- **Smart Home Cost & Promo Design**  
+- **Volunteering** — Literacy, Child Teaching (Talaei Association)  
+
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdusama&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdusama&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contact Me
+📧 Email: shahd.usama2020@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shahd-usama-539815194)
+
+---
+
+> ✨ *"Striving to turn my passion for tech into solutions that matter!"*
