@@ -37,48 +37,4 @@ I’m an engineering student with a GPA of **3.96**, passionate about:
 <a href="#"><img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="#"><img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="#"><img alt="Excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/></a>
-<a href="#"><img alt="VS Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-
----
-
-### 🏆 Achievements
-- 🥇 1st Place — Smart Home Project (Ashbal Masr)  
-- 🏆 1st Place — Al-'Abqariah (National Level)  
-- 💻 Participant — Microsoft Ideation Camp, AWS Educate, Al-Qundus Competition  
-
----
-
-### 📚 Courses & Training
-- 🎓 *Ashbal Masr Digital Scholarship* (2023)  
-- 👩‍💻 *Java & Android Development* — AASTMT  
-- 🌐 *HTML & CSS* — CodeLane  
-- 📊 *Data Analysis & Leadership* — HP LIFE  
-- 🧠 *Soft Skills* — Almentor (Time Management, Leadership, Presentation…)
-
----
-
-### 🔧 Projects
-- **Hotel Management System** (Java — AASTMT)  
-- **Arduino IR Remote System**  
-- **Motor Control with L298N**  
-- **Ultrasonic Distance Sensor**  
-- **Smart Home Cost & Promo Design**  
-- **Volunteering** — Literacy, Child Teaching (Talaei Association)  
-
----
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdusama&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdusama&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Contact Me
-📧 Email: shahd.usama2020@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/shahd-usama-539815194)
-
----
-
-> ✨ *"Striving to turn my passion for tech into solutions that matter!"*
-
-
+<a href="#"><img alt="VS Code" src="https://img.icons8.com/color/
