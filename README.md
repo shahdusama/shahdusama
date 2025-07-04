@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" />
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
 
 ### 🚀 About Me
 I’m an engineering student with a GPA of **3.96**, passionate about:
