@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+  <img alt="Coding GIF" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Code.gif" width="400px"/>
 </div>
 
 ---
@@ -62,4 +62,21 @@ I’m an engineering student with a GPA of **3.96**, passionate about:
 - **Arduino IR Remote System**  
 - **Motor Control with L298N**  
 - **Ultrasonic Distance Sensor**  
-- **Smart Hom**
+- **Smart Home Cost & Promo Design**  
+- **Volunteering** — Literacy, Child Teaching (Talaei Association)  
+
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdusama&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdusama&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contact Me
+📧 Email: shahd.usama2020@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shahd-usama-539815194)
+
+---
+
+> ✨ *"Striving to turn my passion for tech into solutions that matter!"*
