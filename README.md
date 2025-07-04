@@ -1,6 +1,6 @@
-## 👋 Hey, I'm Shahd usama
+## 👋 Hey, I'm Shahd Usama
 
-🎓 *Computer and Communications Engineering Student* at Alexandria National University  
+🎓 Computer and Communications Engineering Student at Alexandria National University  
 📍 Based in Egypt | 💡 Passionate about Technology, Programming, and Innovation
 
 <a href='https://www.linkedin.com/in/shahd-usama-539815194'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='20px'/></a>
@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 About Me
-I’m an engineering student with a GPA of **3.96**, passionate about:
+I’m an engineering student with a GPA of *3.96*, passionate about:
 
 - 🖥 Software Development  
 - 🌐 Web Development  
@@ -49,21 +49,24 @@ I’m an engineering student with a GPA of **3.96**, passionate about:
 ---
 
 ### 📚 Courses & Training
-- 🎓 *Ashbal Masr Digital Scholarship* (2023)  
-- 👩‍💻 *Java & Android Development* — AASTMT  
-- 🌐 *HTML & CSS* — CodeLane  
-- 📊 *Data Analysis & Leadership* — HP LIFE  
-- 🧠 *Soft Skills* — Almentor (Time Management, Leadership, Presentation…)
+- 🎓 *Ashbal Masr Digital Scholarship* — Ministry of Communications & Information Technology (2023)  
+  Covered key topics including:  
+  Python, C++, Data Analysis, Digital Arts, Introduction to Cybersecurity, Introduction to Embedded Systems*
+
+- 👩‍💻 Java & Android Development — AASTMT  
+- 🌐 HTML & CSS — CodeLane  
+- 📊 Data Analysis & Leadership — HP LIFE  
+- 🧠 Soft Skills — Almentor (Time Management, Leadership, Presentation…)
 
 ---
 
 ### 🔧 Projects
-- **Hotel Management System** (Java — AASTMT)  
-- **Arduino IR Remote System**  
-- **Motor Control with L298N**  
-- **Ultrasonic Distance Sensor**  
-- **Smart Home Cost & Promo Design**  
-- **Volunteering** — Literacy, Child Teaching (Talaei Association)  
+- *Hotel Management System* (Java — AASTMT)  
+- *Arduino IR Remote System*  
+- *Motor Control with L298N*  
+- *Ultrasonic Distance Sensor*  
+- *Smart Home Cost & Promo Design*  
+- *Volunteering* — Literacy, Child Teaching (Talaei Association)  
 
 ---
 
@@ -73,4 +76,4 @@ I’m an engineering student with a GPA of **3.96**, passionate about:
 
 ---
 
-> ✨ *"Striving to turn my passion for tech into solutions that matter!"*
+> ✨ "Striving to turn my passion for tech into solutions that matter!"
