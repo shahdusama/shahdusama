@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Shahd Osama
+## 👋 Hey, I'm Shahd usama
 
 🎓 *Computer and Communications Engineering Student* at Alexandria National University  
 📍 Based in Egypt | 💡 Passionate about Technology, Programming, and Innovation
@@ -10,10 +10,9 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" />
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" />
 
 ### 🚀 About Me
-
 I’m an engineering student with a GPA of **3.96**, passionate about:
 
 - 🖥 Software Development  
@@ -33,50 +32,44 @@ I’m an engineering student with a GPA of **3.96**, passionate about:
 <a href="#"><img alt="Arduino" src="https://img.icons8.com/ios-filled/50/0081C9/arduino.png"/></a>
 <a href="#"><img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="#"><img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a href="#"><img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="#"><img alt="Excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/></a>
 <a href="#"><img alt="VS Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 
 ---
 
 ### 🏆 Achievements
-
-- 🥇 1st Place — Smart Home Project (Ashbal Masr)
-- 🏆 1st Place — Al-'Abqariah (National Level)
-- 💻 Participant — Microsoft Ideation Camp, AWS Educate, Al-Qundus Competition
+- 🥇 1st Place — Smart Home Project (Ashbal Masr)  
+- 🏆 1st Place — Al-'Abqariah (National Level)  
+- 💻 Participant — Microsoft Ideation Camp, AWS Educate, Al-Qundus Competition  
 
 ---
 
 ### 📚 Courses & Training
-
 - 🎓 *Ashbal Masr Digital Scholarship* (2023)  
 - 👩‍💻 *Java & Android Development* — AASTMT  
 - 🌐 *HTML & CSS* — CodeLane  
 - 📊 *Data Analysis & Leadership* — HP LIFE  
-- 🧠 *Soft Skills* — Almentor (Time Management, Leadership, Presentation...)
+- 🧠 *Soft Skills* — Almentor (Time Management, Leadership, Presentation…)
 
 ---
 
 ### 🔧 Projects
-
-- **Hotel Management System** (Java — AASTMT)
-- **Arduino IR Remote System**
-- **Motor Control with L298N**
-- **Ultrasonic Distance Sensor**
-- **Smart Home Cost & Promo Design**
-- **Volunteering** — Literacy, Child Teaching (Talaei Association)
+- **Hotel Management System** (Java — AASTMT)  
+- **Arduino IR Remote System**  
+- **Motor Control with L298N**  
+- **Ultrasonic Distance Sensor**  
+- **Smart Home Cost & Promo Design**  
+- **Volunteering** — Literacy, Child Teaching (Talaei Association)  
 
 ---
 
 ### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdusama&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdusama&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdusama&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Contact Me
-
 📧 Email: shahd.usama2020@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shahd-usama-539815194)
 
