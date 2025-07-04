@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Shahd usama
+## 👋 Hey, I'm Shahd Osama
 
 🎓 *Computer and Communications Engineering Student* at Alexandria National University  
 📍 Based in Egypt | 💡 Passionate about Technology, Programming, and Innovation
@@ -10,7 +10,11 @@
 
 ---
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
+<div align="center">
+  <img alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+</div>
+
+---
 
 ### 🚀 About Me
 I’m an engineering student with a GPA of **3.96**, passionate about:
@@ -58,21 +62,4 @@ I’m an engineering student with a GPA of **3.96**, passionate about:
 - **Arduino IR Remote System**  
 - **Motor Control with L298N**  
 - **Ultrasonic Distance Sensor**  
-- **Smart Home Cost & Promo Design**  
-- **Volunteering** — Literacy, Child Teaching (Talaei Association)  
-
----
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdusama&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdusama&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Contact Me
-📧 Email: shahd.usama2020@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/shahd-usama-539815194)
-
----
-
-> ✨ *"Striving to turn my passion for tech into solutions that matter!"*
+- **Smart Hom**
