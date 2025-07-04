@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Shahd Osama
+## 👋 Hey, I'm Shahd usama
 
 🎓 *Computer and Communications Engineering Student* at Alexandria National University  
 📍 Based in Egypt | 💡 Passionate about Technology, Programming, and Innovation
